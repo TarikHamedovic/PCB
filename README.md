@@ -8,4 +8,21 @@ The workshop was held at the Faculty of Electrical Engineering in Sarajevo, part
 
 For educational purposes, we opted to design the PCB as a single-layer board with through-hole components. While it's feasible to construct a more compact version, we intentionally enlarged the board's dimensions. This decision was made to accommodate a safer and more participant-friendly drilling experience. Ensuring ease of handling and reducing the risk of errors during the manual drilling process were our primary considerations, making the workshop accessible and engaging for attendees, regardless of their prior experience with PCB fabrication.
 
-![SDR General](PCBWorkshop/Schematic.png)
+Schematic of Audio Amplifier Circuit             |  PCB Layout of Audio Amplifier Circuit
+:-------------------------:|:-------------------------:
+![](Images/PCBWorkshopSchematic.png)  |  ![](Images/PCBWorkshopPCB.png)
+
+
+## Ultrasonic Speaker
+
+The PCB developed was a component of my Bachelor's Thesis, which focused on creating an ultrasonic directional speaker. To achieve this, I employed a digital modulation method utilizing an STM32 Nucleo microcontroller. Specifically, I designed a custom shield equipped with all necessary components to interface with the Nucleo board. Additionally, I designed an ultrasonic phased array to facilitate the directional output of ultrasonic waves. The PCB was made in Eagle software.
+
+Schematic of STM32 Shield             |  PCB Layout of STM32 Shield
+:-------------------------:|:-------------------------:
+![](Images/ShieldSchematic.png)  |  ![](Images/ShieldPCB.png)
+
+
+Schematic of Transducer Array             |  PCB Layout of Transducer Array
+:-------------------------:|:-------------------------:
+![](Images/ArraySchematic.png)  |  ![](Images/ArrayPCB.png)
+
