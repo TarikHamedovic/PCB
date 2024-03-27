@@ -8,4 +8,4 @@ The workshop was held at the Faculty of Electrical Engineering in Sarajevo, part
 
 For educational purposes, we opted to design the PCB as a single-layer board with through-hole components. While it's feasible to construct a more compact version, we intentionally enlarged the board's dimensions. This decision was made to accommodate a safer and more participant-friendly drilling experience. Ensuring ease of handling and reducing the risk of errors during the manual drilling process were our primary considerations, making the workshop accessible and engaging for attendees, regardless of their prior experience with PCB fabrication.
 
-![SchematicPCBWorkshop](PCB Workshop/Schematic.png)
+![SDR General](PCBWorkshop/Schematic.png)
